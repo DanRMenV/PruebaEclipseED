@@ -11,7 +11,7 @@ public class Prototipo1 {
 		lista_estudiantes.PushBack(e1);
 		lista_estudiantes.PushBack(e1);
 		lista_estudiantes.PushBack(e1);
-		//Hol
+		//Hola
 	
 		lista_estudiantes.PushFront(new Estudiante(69,"Pepe","Pepin",new GregorianCalendar(2000,01,01)));
 		lista_estudiantes.DisplayList();
